@@ -10,7 +10,7 @@ P = cents
 # Q= Quarters, D= Dimes, N= Nickles, P= Pennies/ Cents
 
 print ("Your change will be: ")
-print ("Q: ", Q)
-print ("D: ", D)
-print ("N: ", N)
-print ("P: ", P)
+print ("Q:",Q)
+print ("D:",D)
+print ("N:",N)
+print ("P:",P)
